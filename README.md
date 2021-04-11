@@ -1,5 +1,7 @@
 👋 Hi there! I'm Sanghamitra Muhuri
+
 🔭 I’m currently pursuing Masters degree in Data Science from University of Illinois at Chicago 
+
 📫 How to reach me: https://www.linkedin.com/in/smuhuri93/
 
 <!--
