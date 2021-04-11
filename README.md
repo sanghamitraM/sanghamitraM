@@ -1,6 +1,6 @@
-### 👋 Hi there! I'm Sanghamitra Muhuri
-### 🔭 I’m currently pursuing Masters degree in Data Science from University of Illinois at Chicago 
-### 📫 How to reach me: https://www.linkedin.com/in/smuhuri93/
+👋 Hi there! I'm Sanghamitra Muhuri
+🔭 I’m currently pursuing Masters degree in Data Science from University of Illinois at Chicago 
+📫 How to reach me: https://www.linkedin.com/in/smuhuri93/
 
 <!--
 **sanghamitraM/sanghamitraM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
